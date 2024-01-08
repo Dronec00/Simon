@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "jsx": "react-jsx",
+      "resolveJsonModule": true,
+      "outDir": "./dist/",
+      "module": "es6",
+      "target": "es5",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports" : true,
+      "esModuleInterop" : true
+    }
+  }
